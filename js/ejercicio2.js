@@ -30,9 +30,9 @@ function divs(id, contenido) {
     }
 }
 
-divs('div', "Disney <span><button>Source code</button></span> <span><button>Preview demo</button></span>");
-divs('div1', "Star <span><button>Source code</button></span> <span><button>Preview demo</button></span");
-divs('div2', "Netflix <span><button>Source code</button></span> <span><button>Preview demo</button></span");
-divs('div3', "Paramount <span><button>Source code</button></span> <span><button>Preview demo</button></span");
-divs('div4', "Prime <span><button>Source code</button></span> <span><button>Preview demo</button></span");
-divs('div5', "Youtube <span><button>Source code</button></span> <span><button>Preview demo</button></span");
+divs('div', "Field  <span><button>Source code</button></span> <span><button>Preview demo</button></span>");
+divs('div1', "Field  <span><button>Source code</button></span> <span><button>Preview demo</button></span");
+divs('div2', "Field  <span><button>Source code</button></span> <span><button>Preview demo</button></span");
+divs('div3', "Field  <span><button>Source code</button></span> <span><button>Preview demo</button></span");
+divs('div4', "Field  <span><button>Source code</button></span> <span><button>Preview demo</button></span");
+divs('div5', "Field  <span><button>Source code</button></span> <span><button>Preview demo</button></span");
